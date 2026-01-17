@@ -13,7 +13,7 @@ const Admin = () => {
   });
 
   // Simple password protection (you can change this)
-  const ADMIN_PASSWORD = '50019001';
+  const ADMIN_PASSWORD = 'Teboho@2024';
 
   const handleLogin = (e) => {
     e.preventDefault();
