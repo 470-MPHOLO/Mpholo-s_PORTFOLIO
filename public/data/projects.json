@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Mochini Restaurant Logo",
+    "description": "Modern logo design for a local restaurant",
+    "category": "graphics",
+    "imageUrl": "https://i.imgur.com/example1.jpg",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Website",
+    "description": "Full online store with cart and payments",
+    "category": "websites",
+    "imageUrl": "https://i.imgur.com/example2.jpg",
+    "liveUrl": "https://example-store.netlify.app",
+    "date": "2024-01-10"
+  },
+  {
+    "id": 3,
+    "title": "Executive CV Design",
+    "description": "Professional 2-page resume for IT manager",
+    "category": "cv",
+    "imageUrl": "https://i.imgur.com/example3.jpg",
+    "downloadUrl": "/samples/cv-example.pdf",
+    "date": "2024-01-05"
+  }
+]
